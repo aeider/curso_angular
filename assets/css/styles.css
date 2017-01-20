@@ -3,3 +3,7 @@ h1{
 	font-size: 1.5em;
 	color: #444;
 }
+
+.showingData{
+	display: none;
+}
